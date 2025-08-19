@@ -1,6 +1,6 @@
 Privacy Policy
 Effective Date: [8/29/2025]
-[Legends of the Wilderness] values your privacy. This Privacy Policy is intended to inform you that we do not collect, store, or share any personal data from users of our iOS application, [Your App Name].
+[Legends of the Wilderness] values your privacy. This Privacy Policy is intended to inform you that we do not collect, store, or share any personal data from users of our iOS application, [Legends of the Wilderness].
 1. No Data Collection
 We do not collect any of the following:
 Personal information (such as name, email address, phone number)
